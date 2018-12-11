@@ -31,7 +31,7 @@ public class RobotColorChooser {
 		yeet.setPenWidth(10);
 	    //2. Make the robot draw a shape (this will take more than one line of code)
 yeet.penDown();
-yeet.setSpeed(50000);
+yeet.setSpeed(99000);
 
 yeet.move(10);
 yeet.turn(10);
