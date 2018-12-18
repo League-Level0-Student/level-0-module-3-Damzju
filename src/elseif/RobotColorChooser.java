@@ -26,7 +26,7 @@ public class RobotColorChooser {
 		}
 		
         //7. Put a loop around your code so that you keep asking the user for more colors & drawing them
-		for (int i = 0; i < 6; i++ );
+		for (int i = 0; i < 99; i++ )
 		//4. Set the pen width to 10
 		yeet.setPenWidth(10);
 	    //2. Make the robot draw a shape (this will take more than one line of code)
