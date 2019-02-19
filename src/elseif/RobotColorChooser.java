@@ -32,9 +32,9 @@ public class RobotColorChooser {
 	    //2. Make the robot draw a shape (this will take more than one line of code)
 yeet.penDown();
 yeet.setSpeed(99000);
-for (int i = 0; i < 200; i++) {
-	yeet.move(10);
-	yeet.turn(10);	
+for (int i = 0; i < 400; i++) {
+	yeet.move(50);
+	yeet.turn(50);	
 }
 
 
